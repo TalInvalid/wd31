@@ -4,5 +4,9 @@ h1 {
 
 body {
     color: orangered;
+<<<<<<< HEAD
     background-color: yellowgreen;
+=======
+    background-color: blue;
+>>>>>>> c288dc754e7af934447e22d0f7dde92de5e189f6
 }
